@@ -27,6 +27,9 @@ function HelloWorld() {
          an object just use that variable to this frame and now you are free to use all
          keys  from that interface for assigning values
 
+         Interface is from TypeScript. now we uses typescript so it comes in our work otherwise we uses
+         normal params in function then no need of type safty 
+
 */
 // As you see overall structure of this interface ,  same as object right?
 interface HelloProps {
